@@ -1,10 +1,9 @@
 ---
-title: "Notes: The Elements of Computing Systems by Noam Nisan and Shimon Schocken"
+title: "Notes: Tutorial Intro to Lambda Calculus by Raul Rojas"
 author: jcb
-date: 2018-04-23
-tags: notes, programming, hardware
+date: 2017-11-14
+tags: workthrough, math, haskell, lambda
 ---
-
 
 
 # Contents
