@@ -6,11 +6,11 @@ title: "Notes: Tutorial Intro to Lambda Calculus by Raul Rojas"
 
 # Contents
 
-- [Chapter 1: Definition](/projects/tilc/01.html)
-- [Chapter 2: Arithmetic](/projects/tilc/02.html)
-- [Chapter 3: Conditionals](/projects/tilc/03.html)
-- [Chapter 4: Recursion](/projects/tilc/04.html)
-- [Chapter 5: Projects for the reader](/projects/tilc/05.html)
+- [Chapter 1: Definition](/projects/tilc/01)
+- [Chapter 2: Arithmetic](/projects/tilc/02)
+- [Chapter 3: Conditionals](/projects/tilc/03)
+- [Chapter 4: Recursion](/projects/tilc/04)
+- [Chapter 5: Projects for the reader](/projects/tilc/05)
 
 This is a workthrough of a short paper introducing the Lambda Calculus by Raul
 Rojas. A link to the paper is [here](http://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf).
@@ -18,7 +18,7 @@ Rojas. A link to the paper is [here](http://www.inf.fu-berlin.de/lehre/WS03/alpi
 I found this paper as a follow-up resource listed in Chapter 1 of Haskell
 Programming from First Principle by Chris Allen and Julie Moronuki, my
 notes for which can be found here: [Notes: Haskell Programming From
-First Principles, Allen & Moronuki](/notes/hpfp/00.html)
+First Principles, Allen & Moronuki](/notes/hpfp/00)
 
 Please note that I am using the `\ ` character to indicate &lambda;. This
 is partially so that my notation is closer to Haskell, and partially so I don't
